@@ -11,6 +11,7 @@ namespace GitHub
         static void Main()
         {
             Console.WriteLine("Hallo GitHub");
+            Console.WriteLine("Hallo B");
         }
     }
 }
